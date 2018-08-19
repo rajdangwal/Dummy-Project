@@ -24,7 +24,7 @@ class Display
 			}
 		}
 		
-		//Hey there this comment is added on a branch.
+		//Hey there this comment is added on a branch
 	}
 }
 
