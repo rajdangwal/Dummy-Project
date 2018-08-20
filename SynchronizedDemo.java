@@ -4,6 +4,7 @@ class Display
 	public void wish(String name)// declaring synchronized here is inefficient
 	{
 		;;;;;; //1 lakh lines of code
+		//Modified this as well.
 		synchronized(this)//entire for loop is synchronized
 		{
 			for(int i=0;i<1000;i++)
